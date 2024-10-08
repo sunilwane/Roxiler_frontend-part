@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.barchart {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.transaction-dashboard {
+  display: flex;
+  justify-content: space-between;
+}
